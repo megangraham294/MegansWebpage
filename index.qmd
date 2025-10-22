@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-about:
+about: "I am a first yaer Master's student at the University of New Hampshire studying how we can use acoustic methods to monitor bat populations over time!" 
   id: me
   template: broadside
   image: img/MG_EasternSmFooted.png
@@ -9,7 +9,7 @@ about:
 :::{#me}
 
 ## Goals
-
+"
 ## Education
 
 ## Experience
