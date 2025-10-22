@@ -1,4 +1,4 @@
-# website-template
+# MegansWebpage
 
 [Video tutorial](https://youtu.be/YN75YXaLFGM)
 
