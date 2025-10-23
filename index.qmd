@@ -7,9 +7,9 @@ about:
 ---
 
 :::{#me}
-"I am a first yaer Master's student at the University of New Hampshire studying how we can use acoustic methods to monitor bat populations over time!"
+"I am a first year Master's student at the University of New Hampshire studying how we can use acoustic methods to monitor bat populations over time!"
 ## Goals
-"
+-Learn about bat populations 
 ## Education
 
 ## Experience
